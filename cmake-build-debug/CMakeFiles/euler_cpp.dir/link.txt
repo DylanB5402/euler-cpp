@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/euler_cpp.dir/src/main.cpp.o CMakeFiles/euler_cpp.dir/src/p2.cpp.o CMakeFiles/euler_cpp.dir/src/p1.cpp.o  -o euler_cpp 
