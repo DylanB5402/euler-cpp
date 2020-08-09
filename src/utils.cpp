@@ -7,7 +7,9 @@
 #include <iostream>
 
 void print_vector(std::vector<int> vect) {
+
     for (int i : vect) {
         std::cout << i << " ";
     }
+    std::cout << "\n";
 }

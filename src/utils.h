@@ -5,6 +5,8 @@
 #ifndef EULER_CPP_UTILS_H
 #define EULER_CPP_UTILS_H
 
-void print_vector();
+#include <vector>
+
+void print_vector(std::vector<int> vect);
 
 #endif //EULER_CPP_UTILS_H
