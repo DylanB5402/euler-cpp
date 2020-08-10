@@ -224,6 +224,33 @@ src/p2.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/euler_cpp.dir/build.make CMakeFiles/euler_cpp.dir/src/p2.cpp.s
 .PHONY : src/p2.cpp.s
 
+src/p3.o: src/p3.cpp.o
+
+.PHONY : src/p3.o
+
+# target to build an object file
+src/p3.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/euler_cpp.dir/build.make CMakeFiles/euler_cpp.dir/src/p3.cpp.o
+.PHONY : src/p3.cpp.o
+
+src/p3.i: src/p3.cpp.i
+
+.PHONY : src/p3.i
+
+# target to preprocess a source file
+src/p3.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/euler_cpp.dir/build.make CMakeFiles/euler_cpp.dir/src/p3.cpp.i
+.PHONY : src/p3.cpp.i
+
+src/p3.s: src/p3.cpp.s
+
+.PHONY : src/p3.s
+
+# target to generate assembly for a file
+src/p3.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/euler_cpp.dir/build.make CMakeFiles/euler_cpp.dir/src/p3.cpp.s
+.PHONY : src/p3.cpp.s
+
 src/utils.o: src/utils.cpp.o
 
 .PHONY : src/utils.o
@@ -269,6 +296,9 @@ help:
 	@echo "... src/p2.o"
 	@echo "... src/p2.i"
 	@echo "... src/p2.s"
+	@echo "... src/p3.o"
+	@echo "... src/p3.i"
+	@echo "... src/p3.s"
 	@echo "... src/utils.o"
 	@echo "... src/utils.i"
 	@echo "... src/utils.s"

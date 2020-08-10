@@ -97,6 +97,12 @@
 		<Unit filename="/home/dylan/Documents/Projects/euler-cpp/src/p2.h">
 			<Option target="euler_cpp"/>
 		</Unit>
+		<Unit filename="/home/dylan/Documents/Projects/euler-cpp/src/p3.cpp">
+			<Option target="euler_cpp"/>
+		</Unit>
+		<Unit filename="/home/dylan/Documents/Projects/euler-cpp/src/p3.h">
+			<Option target="euler_cpp"/>
+		</Unit>
 		<Unit filename="/home/dylan/Documents/Projects/euler-cpp/src/utils.cpp">
 			<Option target="euler_cpp"/>
 		</Unit>

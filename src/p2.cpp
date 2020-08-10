@@ -3,9 +3,7 @@
 //
 
 #include "p2.h"
-#include <math.h>
 #include <iostream>
-#include "utils.h"
 
 namespace p2 {
 
