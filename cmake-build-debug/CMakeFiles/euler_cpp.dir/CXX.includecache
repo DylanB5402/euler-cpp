@@ -13,8 +13,6 @@ math.h
 -
 iostream
 -
-vector
--
 utils.h
 /home/dylan/Documents/Projects/euler-cpp/src/utils.h
 

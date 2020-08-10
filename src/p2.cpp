@@ -5,24 +5,23 @@
 #include "p2.h"
 #include <math.h>
 #include <iostream>
-#include <vector>
 #include "utils.h"
+
 namespace p2 {
 
     void solve() {
         int fibonacci = 2;
         int last_fibonacci = 1;
-        int temp = 0;
-        std::vector<int> fib;
-        fib.push_back(last_fibonacci);
-        fib.push_back(fibonacci);
-//        4000000
-        while (fibonacci + last_fibonacci < 10) {
+        int temp;
+        int sum = fibonacci;
+        while (fibonacci + last_fibonacci < 4000000) {
             temp = fibonacci;
             fibonacci += last_fibonacci;
             last_fibonacci = temp;
-            fib.push_back(fibonacci);
+            if (fibonacci % 2 == 0) {
+                sum += fibonacci;
+            }
         }
-        print_vector(fib);
+        std::cout << sum;
     }
 }
