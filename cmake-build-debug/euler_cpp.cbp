@@ -82,37 +82,43 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/home/dylan/Documents/Projects/euler-cpp/include/p1.h">
+			<Option target="euler_cpp"/>
+		</Unit>
+		<Unit filename="/home/dylan/Documents/Projects/euler-cpp/include/p2.h">
+			<Option target="euler_cpp"/>
+		</Unit>
+		<Unit filename="/home/dylan/Documents/Projects/euler-cpp/include/p3.h">
+			<Option target="euler_cpp"/>
+		</Unit>
+		<Unit filename="/home/dylan/Documents/Projects/euler-cpp/include/p4.h">
+			<Option target="euler_cpp"/>
+		</Unit>
+		<Unit filename="/home/dylan/Documents/Projects/euler-cpp/include/p5.h">
+			<Option target="euler_cpp"/>
+		</Unit>
+		<Unit filename="/home/dylan/Documents/Projects/euler-cpp/include/utils.h">
+			<Option target="euler_cpp"/>
+		</Unit>
 		<Unit filename="/home/dylan/Documents/Projects/euler-cpp/src/main.cpp">
 			<Option target="euler_cpp"/>
 		</Unit>
 		<Unit filename="/home/dylan/Documents/Projects/euler-cpp/src/p1.cpp">
 			<Option target="euler_cpp"/>
 		</Unit>
-		<Unit filename="/home/dylan/Documents/Projects/euler-cpp/src/p1.h">
-			<Option target="euler_cpp"/>
-		</Unit>
 		<Unit filename="/home/dylan/Documents/Projects/euler-cpp/src/p2.cpp">
-			<Option target="euler_cpp"/>
-		</Unit>
-		<Unit filename="/home/dylan/Documents/Projects/euler-cpp/src/p2.h">
 			<Option target="euler_cpp"/>
 		</Unit>
 		<Unit filename="/home/dylan/Documents/Projects/euler-cpp/src/p3.cpp">
 			<Option target="euler_cpp"/>
 		</Unit>
-		<Unit filename="/home/dylan/Documents/Projects/euler-cpp/src/p3.h">
-			<Option target="euler_cpp"/>
-		</Unit>
 		<Unit filename="/home/dylan/Documents/Projects/euler-cpp/src/p4.cpp">
 			<Option target="euler_cpp"/>
 		</Unit>
-		<Unit filename="/home/dylan/Documents/Projects/euler-cpp/src/p4.h">
+		<Unit filename="/home/dylan/Documents/Projects/euler-cpp/src/p5.cpp">
 			<Option target="euler_cpp"/>
 		</Unit>
 		<Unit filename="/home/dylan/Documents/Projects/euler-cpp/src/utils.cpp">
-			<Option target="euler_cpp"/>
-		</Unit>
-		<Unit filename="/home/dylan/Documents/Projects/euler-cpp/src/utils.h">
 			<Option target="euler_cpp"/>
 		</Unit>
 		<Unit filename="/home/dylan/Documents/Projects/euler-cpp/CMakeLists.txt">

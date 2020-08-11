@@ -3,4 +3,4 @@ project(euler_cpp)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(euler_cpp src/main.cpp src/p2.cpp src/p2.h src/p1.cpp src/p1.h src/utils.cpp src/utils.h src/p3.cpp src/p3.h src/p4.cpp src/p4.h)
+add_executable(euler_cpp src/main.cpp src/p2.cpp include/p2.h src/p1.cpp include/p1.h src/utils.cpp include/utils.h src/p3.cpp include/p3.h src/p4.cpp include/p4.h src/p5.cpp include/p5.h)

@@ -2,7 +2,7 @@
 // Created by dylan on 8/10/20.
 //
 
-#include "p4.h"
+#include "../include/p4.h"
 #include <iostream>
 #include <cmath>
 #include <sstream>

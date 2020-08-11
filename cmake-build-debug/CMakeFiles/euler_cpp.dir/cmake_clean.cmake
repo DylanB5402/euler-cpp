@@ -4,6 +4,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/euler_cpp.dir/src/p2.cpp.o"
   "CMakeFiles/euler_cpp.dir/src/p3.cpp.o"
   "CMakeFiles/euler_cpp.dir/src/p4.cpp.o"
+  "CMakeFiles/euler_cpp.dir/src/p5.cpp.o"
   "CMakeFiles/euler_cpp.dir/src/utils.cpp.o"
   "euler_cpp"
   "euler_cpp.pdb"

@@ -2,7 +2,7 @@
 // Created by dylan on 8/8/20.
 //
 
-#include "p2.h"
+#include "../include/p2.h"
 #include <iostream>
 
 namespace p2 {

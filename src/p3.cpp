@@ -2,10 +2,10 @@
 // Created by dylan on 8/9/20.
 //
 
-#include "p3.h"
+#include "../include/p3.h"
 #include <iostream>
 #include <vector>
-#include "utils.h"
+#include "../include/utils.h"
 #include <cmath>
 namespace p3 {
 

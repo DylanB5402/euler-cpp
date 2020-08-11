@@ -2,7 +2,7 @@
 // Created by dylan on 8/8/20.
 //
 
-#include "utils.h"
+#include "../include/utils.h"
 #include <vector>
 #include <iostream>
 
