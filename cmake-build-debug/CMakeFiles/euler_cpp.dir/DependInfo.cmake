@@ -8,6 +8,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/home/dylan/Documents/Projects/euler-cpp/src/p1.cpp" "/home/dylan/Documents/Projects/euler-cpp/cmake-build-debug/CMakeFiles/euler_cpp.dir/src/p1.cpp.o"
   "/home/dylan/Documents/Projects/euler-cpp/src/p2.cpp" "/home/dylan/Documents/Projects/euler-cpp/cmake-build-debug/CMakeFiles/euler_cpp.dir/src/p2.cpp.o"
   "/home/dylan/Documents/Projects/euler-cpp/src/p3.cpp" "/home/dylan/Documents/Projects/euler-cpp/cmake-build-debug/CMakeFiles/euler_cpp.dir/src/p3.cpp.o"
+  "/home/dylan/Documents/Projects/euler-cpp/src/p4.cpp" "/home/dylan/Documents/Projects/euler-cpp/cmake-build-debug/CMakeFiles/euler_cpp.dir/src/p4.cpp.o"
   "/home/dylan/Documents/Projects/euler-cpp/src/utils.cpp" "/home/dylan/Documents/Projects/euler-cpp/cmake-build-debug/CMakeFiles/euler_cpp.dir/src/utils.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
