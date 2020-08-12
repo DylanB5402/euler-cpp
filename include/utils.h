@@ -9,4 +9,6 @@
 
 void print_vector(std::vector<int> vect);
 
+bool isPrime(int num);
+
 #endif //EULER_CPP_UTILS_H

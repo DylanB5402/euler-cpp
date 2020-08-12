@@ -5,6 +5,7 @@
 #include "../include/utils.h"
 #include <vector>
 #include <iostream>
+#include <cmath>
 
 void print_vector(std::vector<int> vect) {
 
@@ -12,4 +13,13 @@ void print_vector(std::vector<int> vect) {
         std::cout << i << " ";
     }
     std::cout << "\n";
+}
+
+bool isPrime(int num) {
+    for (int i = 2; i <= (int) sqrt(num); i++) {
+        if (num % i == 0) {
+            return false;
+        }
+    }
+    return true;
 }

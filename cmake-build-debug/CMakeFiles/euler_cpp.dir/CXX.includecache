@@ -6,13 +6,19 @@
 
 #IncludeRegexTransform: 
 
-/home/dylan/Documents/Projects/euler-cpp/include/p6.h
+/home/dylan/Documents/Projects/euler-cpp/include/p7.h
 
-/home/dylan/Documents/Projects/euler-cpp/src/p6.cpp
-../include/p6.h
-/home/dylan/Documents/Projects/euler-cpp/include/p6.h
+/home/dylan/Documents/Projects/euler-cpp/include/utils.h
+vector
+-
+
+/home/dylan/Documents/Projects/euler-cpp/src/p7.cpp
+../include/p7.h
+/home/dylan/Documents/Projects/euler-cpp/include/p7.h
 cmath
 -
 iostream
 -
+../include/utils.h
+/home/dylan/Documents/Projects/euler-cpp/include/utils.h
 

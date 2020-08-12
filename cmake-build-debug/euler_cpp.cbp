@@ -100,6 +100,9 @@
 		<Unit filename="/home/dylan/Documents/Projects/euler-cpp/include/p6.h">
 			<Option target="euler_cpp"/>
 		</Unit>
+		<Unit filename="/home/dylan/Documents/Projects/euler-cpp/include/p7.h">
+			<Option target="euler_cpp"/>
+		</Unit>
 		<Unit filename="/home/dylan/Documents/Projects/euler-cpp/include/utils.h">
 			<Option target="euler_cpp"/>
 		</Unit>
@@ -122,6 +125,9 @@
 			<Option target="euler_cpp"/>
 		</Unit>
 		<Unit filename="/home/dylan/Documents/Projects/euler-cpp/src/p6.cpp">
+			<Option target="euler_cpp"/>
+		</Unit>
+		<Unit filename="/home/dylan/Documents/Projects/euler-cpp/src/p7.cpp">
 			<Option target="euler_cpp"/>
 		</Unit>
 		<Unit filename="/home/dylan/Documents/Projects/euler-cpp/src/utils.cpp">
