@@ -1,3 +1,0 @@
-/home/dylan/Documents/Projects/euler-cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/dylan/Documents/Projects/euler-cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/dylan/Documents/Projects/euler-cpp/cmake-build-debug/CMakeFiles/euler_cpp.dir
