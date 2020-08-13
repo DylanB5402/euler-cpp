@@ -1,8 +1,8 @@
 #include <iostream>
 #include <math.h>
-#include "../include/p7.h"
-using namespace p7;
+#include "../include/p8.h"
+using namespace p8;
 
 int main() {
-    p7::solve();
+    p8::solve();
 }
