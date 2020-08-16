@@ -197,6 +197,33 @@ src/p1.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/euler_cpp.dir/build.make CMakeFiles/euler_cpp.dir/src/p1.cpp.s
 .PHONY : src/p1.cpp.s
 
+src/p10.o: src/p10.cpp.o
+
+.PHONY : src/p10.o
+
+# target to build an object file
+src/p10.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/euler_cpp.dir/build.make CMakeFiles/euler_cpp.dir/src/p10.cpp.o
+.PHONY : src/p10.cpp.o
+
+src/p10.i: src/p10.cpp.i
+
+.PHONY : src/p10.i
+
+# target to preprocess a source file
+src/p10.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/euler_cpp.dir/build.make CMakeFiles/euler_cpp.dir/src/p10.cpp.i
+.PHONY : src/p10.cpp.i
+
+src/p10.s: src/p10.cpp.s
+
+.PHONY : src/p10.s
+
+# target to generate assembly for a file
+src/p10.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/euler_cpp.dir/build.make CMakeFiles/euler_cpp.dir/src/p10.cpp.s
+.PHONY : src/p10.cpp.s
+
 src/p2.o: src/p2.cpp.o
 
 .PHONY : src/p2.o
@@ -455,6 +482,9 @@ help:
 	@echo "... src/p1.o"
 	@echo "... src/p1.i"
 	@echo "... src/p1.s"
+	@echo "... src/p10.o"
+	@echo "... src/p10.i"
+	@echo "... src/p10.s"
 	@echo "... src/p2.o"
 	@echo "... src/p2.i"
 	@echo "... src/p2.s"

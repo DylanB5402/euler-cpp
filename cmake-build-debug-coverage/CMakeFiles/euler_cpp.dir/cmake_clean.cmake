@@ -1,6 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/euler_cpp.dir/src/main.cpp.o"
   "CMakeFiles/euler_cpp.dir/src/p1.cpp.o"
+  "CMakeFiles/euler_cpp.dir/src/p10.cpp.o"
   "CMakeFiles/euler_cpp.dir/src/p2.cpp.o"
   "CMakeFiles/euler_cpp.dir/src/p3.cpp.o"
   "CMakeFiles/euler_cpp.dir/src/p4.cpp.o"

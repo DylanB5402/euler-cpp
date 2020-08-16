@@ -1,9 +1,9 @@
 #include <iostream>
 #include <math.h>
-#include "../include/p9.h"
-using namespace p9;
+#include "../include/p10.h"
+using namespace p10;
 
 int main() {
-//    p9::solve();
-    std::cout << p9::is_coprime(4, 8);
+    p10::solve();
+//    std::cout << p9::is_coprime(1, 4);
 }

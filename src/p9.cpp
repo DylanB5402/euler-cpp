@@ -13,18 +13,55 @@ namespace p9 {
         int a = 0;
         int b = 0;
         int c = 1;
-        while (a * a + b * b != c * c && a < 1000) {
-            a++;
-            for (b = 1; b < 1000 - a - 1; b++) {
-                c = 1000 - a - b;
-                std::cout << a << "\n";
+        int m = 499;
+        int n = 1;
+//        while (m * n < 998 && a + b + c != 1000) {
+//            for (n = 1; n < 499; n++) {
+//                if (is_coprime(m, n)) {
+//                    a = m * n;
+//                    b = ((m * m) - (n * n)) / 2;
+//                    c = ((m * m) + (n * n)) / 2;
+//                    if (a + b + c == 1000) {
+//                        std::cout << a * b * c;
+//                    }
+////                    std::cout << a << "\n";
+////                    std::cout << b << "\n";
+////                    std::cout << c << "\n";
+////                    std::cout << "----\n";
+//                    std::cout << m << " \n" << n << "\n" << "-----\n";
+//
+//                }
+//            }
+//            m--;
+//        }
+        for (m = 2; m <= 998; m++) {
+            for (n = 1; n <= 998; n++) {
+                for (n = 1; n < 499; n++) {
+                    if (m > n) {
+                        if (is_coprime(m, n)) {
+                            a = m * n;
+                            b = ((m * m) - (n * n)) / 2;
+                            c = ((m * m) + (n * n)) / 2;
+                            if (a + b + c == 1000) {
+                                std::cout << a * b * c;
+                            }
+//                    std::cout << a << "\n";
+//                    std::cout << b << "\n";
+//                    std::cout << c << "\n";
+//                    std::cout << "----\n";
+                            std::cout << m << " \n" << n << "\n" << "-----\n";
 
+                        }
+                    }
+                }
             }
-
         }
+
+//        std::cout << m << " \n" << n << "\n";
         std::cout << a << "\n";
         std::cout << b << "\n";
         std::cout << c << "\n";
+//        std::cout << "----\n";
     }
 
     std::vector<int> get_all_factors(int num) {
@@ -34,7 +71,6 @@ namespace p9 {
                 factors.push_back(i);
             }
         }
-//        print_vector(factors);
         return factors;
     }
 

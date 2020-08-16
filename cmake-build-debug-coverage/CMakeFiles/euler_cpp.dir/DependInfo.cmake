@@ -6,6 +6,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_CXX
   "/home/dylan/Documents/Projects/euler-cpp/src/main.cpp" "/home/dylan/Documents/Projects/euler-cpp/cmake-build-debug-coverage/CMakeFiles/euler_cpp.dir/src/main.cpp.o"
   "/home/dylan/Documents/Projects/euler-cpp/src/p1.cpp" "/home/dylan/Documents/Projects/euler-cpp/cmake-build-debug-coverage/CMakeFiles/euler_cpp.dir/src/p1.cpp.o"
+  "/home/dylan/Documents/Projects/euler-cpp/src/p10.cpp" "/home/dylan/Documents/Projects/euler-cpp/cmake-build-debug-coverage/CMakeFiles/euler_cpp.dir/src/p10.cpp.o"
   "/home/dylan/Documents/Projects/euler-cpp/src/p2.cpp" "/home/dylan/Documents/Projects/euler-cpp/cmake-build-debug-coverage/CMakeFiles/euler_cpp.dir/src/p2.cpp.o"
   "/home/dylan/Documents/Projects/euler-cpp/src/p3.cpp" "/home/dylan/Documents/Projects/euler-cpp/cmake-build-debug-coverage/CMakeFiles/euler_cpp.dir/src/p3.cpp.o"
   "/home/dylan/Documents/Projects/euler-cpp/src/p4.cpp" "/home/dylan/Documents/Projects/euler-cpp/cmake-build-debug-coverage/CMakeFiles/euler_cpp.dir/src/p4.cpp.o"
